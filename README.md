@@ -1,9 +1,6 @@
 # Hi there 👋
 My name is Tim Lappe, i'm a software developer from germany.
 
-- 🔭 I’m currently working on Booking Magic, a WordPress booking plugin 
-- 🌱 I’m currently learning the Monogame framework for hobby projects 
-
 ## Technologies
 ![](https://img.shields.io/badge/Language-PHP-informational)
 ![](https://img.shields.io/badge/Language-JavaScript-informational)
